@@ -2,4 +2,4 @@
 1
 2
 3
-p sheafcoef Post-estimation command that displays sheaf coefficients Use sheafcoef With STATA 19
+p xBalance Standardized Differences for Stratified Comparisons Use xBalance With STATA 19
