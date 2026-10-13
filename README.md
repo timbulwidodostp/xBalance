@@ -1,6 +1,8 @@
 # xBalance
 Standardized Differences for Stratified Comparisons Use xBalance With STATA 19
 
+https://www.youtube.com/watch?v=IArMHnk_vB0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
